@@ -16,6 +16,7 @@ namespace BoraLa
             Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture ) + " reais");//Concatenação
             Console.WriteLine("Configurando o Git");
             Console.WriteLine("Bom dia hoje?");
+            Console.WriteLine("Terceira inserção");
         }
     }
 }
